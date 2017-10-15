@@ -1,6 +1,6 @@
-Lý Thuyết môn kiểm thử phần mềm:
+<b>Lý Thuyết môn kiểm thử phần mềm:</b>
 
-Người tham gia:
+<i>Người tham gia</i>
 
 Nguyễn Thị Hoài Phụng
 
