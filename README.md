@@ -2,6 +2,8 @@
 
 Nhằm tiện lợi cho việc tra cứu các lý thuyết và thuật ngữ môn này
 
+Bấm vào phần wiki để xem
+
 <i>Người tham gia</i>
 
 Nguyễn Thị Hoài Phụng
