@@ -3,8 +3,8 @@
 Nhằm tiện lợi cho việc tra cứu các lý thuyết và thuật ngữ môn này
 
 Bấm vào phần wiki để xem
-
-<i>Người tham gia</i>
+<hr/>
+<i>Thành viên: </i>
 
 Nguyễn Thị Hoài Phụng
 
